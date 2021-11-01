@@ -1,0 +1,50 @@
+.rounded-25{
+    border-radius: 25px;
+}
+
+.main-bg-color{
+    background: #1FA2FA;
+    color: #fff;
+}
+.color{
+    color: #1FA2FA;
+}
+.text-color{
+    color: grey;    
+}
+
+.text-size-10{
+    font-size: 15px;
+}
+.text-size-14{
+    font-size: 14px;
+}
+.text-size-13{
+    font-size: 13px;
+}
+.text-size-12{
+    font-size: 12px;
+}
+.news{
+    height: 80px;
+}
+.rounded-50{
+    border-radius: 50%;
+}
+.rounded-20{
+    border-radius: 20px;
+}
+.height-50{
+    height: 50px;
+}
+#input{
+    position: relative;
+}
+.fa-search{
+    position: absolute;
+    left: 15px;
+    top: 15px;
+}
+.tweet-button:hover{
+    color: #fff;
+}
